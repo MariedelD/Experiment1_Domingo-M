@@ -1,22 +1,34 @@
 # EXPERIMENT 1: INTRODUCTION TO PYTHON PROGRAMMING
+
 ## I. Intended Learning Outcomes
 #### In this experiment, the primary objective is to understand and apply basic codes and functions in Python programming for developing functional Python programs.
+
 ## II. Instructions
+
 ### Problem 1: ALPHABET SOUP PROBLEM
 #### Create a function that takes a string and returns a string with its letters in alphabetical order.
+
 ### Problem 2: EMOTICON PROBLEM
+
 #### Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
+
 | Word          | Emoticon      | 
 | ------------- |:-------------:| 
 | Smile         |       :)      | 
 | Grin          |       :D      |  
 | Sad           |       :((     | 
 | Mad           |      >:(      | 
+
 ### Problem 3: UNPACKING LIST PROBLEM
+
 #### Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables.
+
 ## III. Solution
+
 ### Problem 1: ALPHABET SOUP PROBLEM
+
 #### In Problem 1, the objective is to sort a string alphabetically. To achieve this, string functions are used to read the word input by the user, and then this word will be sorted. The def sort_string function is then defined to arrange the input characters in alphabetical order, with ''.join() used to combine these sorted characters into a single string. The return statement marks the end of the function and provides the sorted string as output. Finally, the print function displays the original and the alphabetically sorted word.
+
 ###
 _In summary, the required outcomes are as follows:_
 #### 1. A function that takes a string as input.
@@ -34,38 +46,18 @@ _In summary, the required outcomes are as follows:_
 #### 2. A function that will replace the specific words into their corresponding emoticons.
 #### 3. Display the sentence with the replaced emoticons.
 ###
-<img width="677" height="71" alt="image" src="https://github.com/user-attachments/assets/d798442a-c2fd-4a4d-a512-830d26bd9dcb" />
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/8008c4c5-aa72-4ff3-b87e-b16b282d052e)
+<img width="677" height="71" alt="image" src="https://github.com/user-attachments/assets/d798442a-c2fd-4a4d-a512-830d26bd9dcb" />
+
+
 ### Problem 3:  UNPACKING LIST PROBLEM
 _In summary, the required outcomes are as follows:_
 #### 1. Allow the user to input a list of numbers.
 #### 2. A function that will separate the list into First, Middle, & Last.
 #### 3. Display the First, Middle, & Last element of the list.
 ###
-### CODE:
-![image](https://github.com/user-attachments/assets/4ab0bf43-2d9b-4e19-94ac-947a2cdbf8f2)
-###
-<img width="549" height="94" alt="image" src="https://github.com/user-attachments/assets/a729e107-0001-42a1-ae0e-d8ff2d8334a6" />
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/917ca207-4f41-4877-b4ba-b2ed0707a61e)
-###
-## IV. AUTHOR
-### Submitted By: DOMINGO, Mariedel O.  
-### Section: 2ECE-A
-## V. Version History
-#### 1.00
-* Created a repository
-#### 1.01
-* Uploaded the file in an incorrect format
-* Without README File
-#### 1.02
-* Deleted the Files with incorrect format
-* Re-upload the file in the correct format
-#### 1.03
-* Created the README File
-#### 1.04
-* Revised the README file
+<img width="549" height="94" alt="image" src="https://github.com/user-attachments/assets/a729e107-0001-42a1-ae0e-d8ff2d8334a6" />
 
   
