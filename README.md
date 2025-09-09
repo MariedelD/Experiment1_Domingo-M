@@ -23,11 +23,10 @@ _In summary, the required outcomes are as follows:_
 #### 2. A function that will sort the word in alphabetical order.
 #### 3. Display the original input and the sorted string to the user.
 ###
-### CODE:
-![image](https://github.com/user-attachments/assets/9adb9c9f-a0b3-4343-b5dd-558d9ef6420d)
-###
+
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/ef55468e-0cf4-4812-928e-4db21c6d5b7b)
+<img width="442" height="50" alt="image" src="https://github.com/user-attachments/assets/611ebe08-45c2-43e1-b313-be9dcf145aaf" />
+
 ### Problem 2: EMOTICON PROBLEM
 #### For the Emoticon Problem, the task is to replace specific words with corresponding emoticons. The code uses string functions to process the sentence that the user input. By defining a function with def and utilizing the .replace(), the function substitutes the specified words in the parentheses with their corresponding emoticons. Finally, the print function is used to display both the original sentence and the modified sentence with the words replaced by emoticons.
 _In summary, the required outcomes are as follows:_
@@ -35,9 +34,8 @@ _In summary, the required outcomes are as follows:_
 #### 2. A function that will replace the specific words into their corresponding emoticons.
 #### 3. Display the sentence with the replaced emoticons.
 ###
-### CODE:
-![image](https://github.com/user-attachments/assets/e44c54a2-4efc-4477-912d-3978a25bfd6a)
-###
+<img width="677" height="71" alt="image" src="https://github.com/user-attachments/assets/d798442a-c2fd-4a4d-a512-830d26bd9dcb" />
+
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/8008c4c5-aa72-4ff3-b87e-b16b282d052e)
 ### Problem 3:  UNPACKING LIST PROBLEM
@@ -49,6 +47,7 @@ _In summary, the required outcomes are as follows:_
 ### CODE:
 ![image](https://github.com/user-attachments/assets/4ab0bf43-2d9b-4e19-94ac-947a2cdbf8f2)
 ###
+<img width="549" height="94" alt="image" src="https://github.com/user-attachments/assets/a729e107-0001-42a1-ae0e-d8ff2d8334a6" />
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/917ca207-4f41-4877-b4ba-b2ed0707a61e)
 ###
